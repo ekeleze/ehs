@@ -3,5 +3,5 @@
     overflow: hidden;
     height: 50px;
     text-align: left;
-    line-height: 25px;
+    vertical-align: middle;
 }
