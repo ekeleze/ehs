@@ -2,6 +2,6 @@
     background-color: #181A1B;
     overflow: hidden;
     height: 50px;
-    text-align: left;
-    vertical-align: middle;
+    display: flex;
+    align-items: center;
 }
