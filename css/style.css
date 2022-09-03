@@ -1,4 +1,6 @@
 .wrapper {
     background-color: #181A1B;
     overflow: hidden;
+    max-height: 50px;
   }
+
