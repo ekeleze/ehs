@@ -1,2 +1,2 @@
-# ekeleze's personal site
+# www.ekeleze.net
 **ekeleze's personal site.**
