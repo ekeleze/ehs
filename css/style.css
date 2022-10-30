@@ -5,3 +5,7 @@
     display: flex;
     align-items: center;
 }
+
+.img {
+  border: 2px solid #181A1B;
+}
