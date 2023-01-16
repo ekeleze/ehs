@@ -1,9 +1,11 @@
 .wrapper {
+    border: none;
     background-color: #181A1B;
     overflow: hidden;
     height: 50px;
     display: flex;
     align-items: center;
+    border-radius: 30px;
 }
 
 .b1 {
